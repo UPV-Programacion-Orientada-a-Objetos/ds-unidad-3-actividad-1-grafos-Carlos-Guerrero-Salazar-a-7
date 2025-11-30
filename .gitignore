@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+build/
+*.so
+*.o
+*.pyd
+.DS_Store
+src/neuronet.cpp
+src/main.cpp
+src/test

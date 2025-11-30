@@ -1,0 +1,4 @@
+cython
+matplotlib
+networkx
+numpy
